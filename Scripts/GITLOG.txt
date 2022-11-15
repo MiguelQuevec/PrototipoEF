@@ -1,0 +1,135 @@
+Edgar Espinoza@DESKTOP-MF9ETJ2 MINGW64 ~/Desktop/prueba/PrototipoEF (main)
+$ git log
+commit 9da3a06bfb68d5dbefd63cef85949c31d17b1e18 (HEAD -> main, origin/main, origin/HEAD)
+Merge: c47f559 325c947
+Author: MiguelQuevec <mlunaq@miumg.edu.gt>
+Date:   Tue Nov 15 14:15:35 2022 -0600
+
+    Merge branch 'main' of https://github.com/MiguelQuevec/PrototipoEF
+
+commit c47f559c42377644c234c82f6dca7d717d5fcad6
+Author: MiguelQuevec <mlunaq@miumg.edu.gt>
+Date:   Tue Nov 15 14:13:42 2022 -0600
+
+    Serie 3 PrototipoEF
+
+commit 325c947f4fe3cdc9a327d20f8357e052e1a1914f (origin/RamaTransaccional090110509, origin/RamaContenedor090110509)
+Merge: ab6a1f0 f808913
+Author: Miguel Luna Q <88957822+MiguelQuevec@users.noreply.github.com>
+Date:   Tue Nov 15 10:07:11 2022 -0600
+
+    Merge pull request #1 from MiguelQuevec/RamaDiagramas090110509
+
+    Rama diagramas090110509
+:...skipping...
+commit 9da3a06bfb68d5dbefd63cef85949c31d17b1e18 (HEAD -> main, origin/main, origin/HEAD)
+Merge: c47f559 325c947
+Author: MiguelQuevec <mlunaq@miumg.edu.gt>
+Date:   Tue Nov 15 14:15:35 2022 -0600
+
+    Merge branch 'main' of https://github.com/MiguelQuevec/PrototipoEF
+
+commit c47f559c42377644c234c82f6dca7d717d5fcad6
+Author: MiguelQuevec <mlunaq@miumg.edu.gt>
+Date:   Tue Nov 15 14:13:42 2022 -0600
+
+    Serie 3 PrototipoEF
+
+commit 325c947f4fe3cdc9a327d20f8357e052e1a1914f (origin/RamaTransaccional090110509, origin/RamaContenedor090110509)
+Merge: ab6a1f0 f808913
+Author: Miguel Luna Q <88957822+MiguelQuevec@users.noreply.github.com>
+Date:   Tue Nov 15 10:07:11 2022 -0600
+
+    Merge pull request #1 from MiguelQuevec/RamaDiagramas090110509
+
+    Rama diagramas090110509
+
+commit f808913697d3bfbfff7a0692b9b5f4c546dc1e59 (origin/RamaDiagramas090110509)
+Author: MiguelQuevec <mlunaq@miumg.edu.gt>
+Date:   Tue Nov 15 10:06:29 2022 -0600
+
+    Diagrama Relacional y Script
+
+commit ab6a1f0167abbb4c56e63df1b6318a436f3f08f5
+Author: MiguelQuevec <mlunaq@miumg.edu.gt>
+Date:   Tue Nov 15 10:03:37 2022 -0600
+
+    Diagrama Relacional y Script
+
+commit 8d2606bdfbfcde9b34186fa4bee95627d16e52da
+Author: MiguelQuevec <mlunaq@miumg.edu.gt>
+Date:   Tue Nov 15 09:18:57 2022 -0600
+
+    Diagramas
+
+commit a9aa3989ffd9187c53e27d2bcbd98ac53ef4bf63
+Author: MiguelQuevec <mlunaq@miumg.edu.gt>
+Date:   Tue Nov 15 09:16:45 2022 -0600
+
+    Diagramas
+
+commit 6685db7e51d5f1de2a43ab4aae40822220d0433d
+Author: MiguelQuevec <mlunaq@miumg.edu.gt>
+Date:   Tue Nov 15 08:17:32 2022 -0600
+
+    Estandarizacion
+
+commit c99745abb78b65af72521ca19b42b9149161c08b
+Author: Miguel Luna Q <88957822+MiguelQuevec@users.noreply.github.com>
+Date:   Tue Nov 15 08:05:09 2022 -0600
+
+    Initial commit
+...skipping...
+    Merge branch 'main' of https://github.com/MiguelQuevec/PrototipoEF
+
+commit c47f559c42377644c234c82f6dca7d717d5fcad6
+Author: MiguelQuevec <mlunaq@miumg.edu.gt>
+Date:   Tue Nov 15 14:13:42 2022 -0600
+
+    Serie 3 PrototipoEF
+
+commit 325c947f4fe3cdc9a327d20f8357e052e1a1914f (origin/RamaTransaccional090110509, origin/RamaContenedor090110509)
+Merge: ab6a1f0 f808913
+Author: Miguel Luna Q <88957822+MiguelQuevec@users.noreply.github.com>
+Date:   Tue Nov 15 10:07:11 2022 -0600
+
+    Merge pull request #1 from MiguelQuevec/RamaDiagramas090110509
+
+    Rama diagramas090110509
+
+commit f808913697d3bfbfff7a0692b9b5f4c546dc1e59 (origin/RamaDiagramas090110509)
+Author: MiguelQuevec <mlunaq@miumg.edu.gt>
+Date:   Tue Nov 15 10:06:29 2022 -0600
+
+    Diagrama Relacional y Script
+
+commit ab6a1f0167abbb4c56e63df1b6318a436f3f08f5
+Author: MiguelQuevec <mlunaq@miumg.edu.gt>
+Date:   Tue Nov 15 10:03:37 2022 -0600
+
+    Diagrama Relacional y Script
+
+commit 8d2606bdfbfcde9b34186fa4bee95627d16e52da
+Author: MiguelQuevec <mlunaq@miumg.edu.gt>
+Date:   Tue Nov 15 09:18:57 2022 -0600
+
+    Diagramas
+
+commit a9aa3989ffd9187c53e27d2bcbd98ac53ef4bf63
+Author: MiguelQuevec <mlunaq@miumg.edu.gt>
+Date:   Tue Nov 15 09:16:45 2022 -0600
+
+    Diagramas
+
+commit 6685db7e51d5f1de2a43ab4aae40822220d0433d
+Author: MiguelQuevec <mlunaq@miumg.edu.gt>
+Date:   Tue Nov 15 08:17:32 2022 -0600
+
+    Estandarizacion
+
+commit c99745abb78b65af72521ca19b42b9149161c08b
+Author: Miguel Luna Q <88957822+MiguelQuevec@users.noreply.github.com>
+Date:   Tue Nov 15 08:05:09 2022 -0600
+
+    Initial commit
+(END)
