@@ -1,0 +1,9 @@
+C:\Users\Edgar Espinoza\Desktop\PrototipoEF\Codigo\Nominas\MDI_Nominas\CapaControladorNomina\obj\Debug\CapaControladorNomina.csproj.CoreCompileInputs.cache
+C:\Users\Edgar Espinoza\Desktop\PrototipoEF\Codigo\Nominas\MDI_Nominas\CapaControladorNomina\bin\Debug\CapaControladorNomina.dll
+C:\Users\Edgar Espinoza\Desktop\PrototipoEF\Codigo\Nominas\MDI_Nominas\CapaControladorNomina\bin\Debug\CapaControladorNomina.pdb
+C:\Users\Edgar Espinoza\Desktop\PrototipoEF\Codigo\Nominas\MDI_Nominas\CapaControladorNomina\bin\Debug\CapaModuloNomina.dll
+C:\Users\Edgar Espinoza\Desktop\PrototipoEF\Codigo\Nominas\MDI_Nominas\CapaControladorNomina\bin\Debug\CapaModuloNomina.pdb
+C:\Users\Edgar Espinoza\Desktop\PrototipoEF\Codigo\Nominas\MDI_Nominas\CapaControladorNomina\obj\Debug\CapaControladorNomina.csproj.AssemblyReference.cache
+C:\Users\Edgar Espinoza\Desktop\PrototipoEF\Codigo\Nominas\MDI_Nominas\CapaControladorNomina\obj\Debug\CapaControladorNomina.csproj.CopyComplete
+C:\Users\Edgar Espinoza\Desktop\PrototipoEF\Codigo\Nominas\MDI_Nominas\CapaControladorNomina\obj\Debug\CapaControladorNomina.dll
+C:\Users\Edgar Espinoza\Desktop\PrototipoEF\Codigo\Nominas\MDI_Nominas\CapaControladorNomina\obj\Debug\CapaControladorNomina.pdb

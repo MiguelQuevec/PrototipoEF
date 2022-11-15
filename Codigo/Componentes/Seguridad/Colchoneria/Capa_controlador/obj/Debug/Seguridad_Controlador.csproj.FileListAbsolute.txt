@@ -1,0 +1,10 @@
+C:\Users\Edgar Espinoza\Desktop\PrototipoEF\Codigo\Componentes\Seguridad\Colchoneria\Capa_controlador\obj\Debug\Seguridad_Controlador.csproj.AssemblyReference.cache
+C:\Users\Edgar Espinoza\Desktop\PrototipoEF\Codigo\Componentes\Seguridad\Colchoneria\Capa_controlador\obj\Debug\Seguridad_Controlador.csproj.CoreCompileInputs.cache
+C:\Users\Edgar Espinoza\Desktop\PrototipoEF\Codigo\Componentes\Seguridad\Colchoneria\Capa_controlador\bin\Debug\Seguridad_Controlador.dll
+C:\Users\Edgar Espinoza\Desktop\PrototipoEF\Codigo\Componentes\Seguridad\Colchoneria\Capa_controlador\bin\Debug\Seguridad_Controlador.pdb
+C:\Users\Edgar Espinoza\Desktop\PrototipoEF\Codigo\Componentes\Seguridad\Colchoneria\Capa_controlador\bin\Debug\eCryptography.dll
+C:\Users\Edgar Espinoza\Desktop\PrototipoEF\Codigo\Componentes\Seguridad\Colchoneria\Capa_controlador\bin\Debug\Modelo_Seguridad.dll
+C:\Users\Edgar Espinoza\Desktop\PrototipoEF\Codigo\Componentes\Seguridad\Colchoneria\Capa_controlador\bin\Debug\Modelo_Seguridad.pdb
+C:\Users\Edgar Espinoza\Desktop\PrototipoEF\Codigo\Componentes\Seguridad\Colchoneria\Capa_controlador\obj\Debug\Seguridad_Controlador.csproj.CopyComplete
+C:\Users\Edgar Espinoza\Desktop\PrototipoEF\Codigo\Componentes\Seguridad\Colchoneria\Capa_controlador\obj\Debug\Seguridad_Controlador.dll
+C:\Users\Edgar Espinoza\Desktop\PrototipoEF\Codigo\Componentes\Seguridad\Colchoneria\Capa_controlador\obj\Debug\Seguridad_Controlador.pdb
